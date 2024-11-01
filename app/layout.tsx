@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import {options} from "preact";
+import "easymde/dist/easymde.min.css";
 
 const workSans = localFont({
     src: [
