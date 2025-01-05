@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+$env:Path += ";C:\nvm4w\nodejs"
+
 First, run the development server:
 
 ```bash
