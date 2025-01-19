@@ -1,9 +1,9 @@
 ## Live url
 Live url: https://next-blog-rust-three.vercel.app/
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Getting Started
 
-## Getting Started
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 $env:Path += ";C:\nvm4w\nodejs"
 
@@ -43,11 +43,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-## Summary
+# Summary
 
 Next.js offers server-side rendering strategies like SSG and ISR for efficient content rendering, enhancing app performance and user experience.
 
-# Highlights
+## Highlights
 🚀 SSG vs. ISR: Understand static site generation and incremental static regeneration for optimized rendering.
 🎨 Hero Component Design: Create a visually appealing hero section using Tailwind CSS and reusable components.
 🗄️ Data Fetching: Fetch startup data with Gro query language and organize queries for easy access.
@@ -55,7 +55,7 @@ Next.js offers server-side rendering strategies like SSG and ISR for efficient c
 🔒 User Authentication: Set up author authentication and submission forms with validation for a seamless user experience.
 ⏱️ Parallel Data Fetching: Implement parallel requests for faster loading times and better performance.
 🌐 Deployment: Successfully deploy the application to Vercel for public access.
-# Key Insights
+## Key Insights
 📈 Performance Optimization: Utilizing SSG and ISR can significantly improve loading times and user engagement by serving pre-rendered content. This strategy allows developers to strike a balance between static and dynamic content.
 🧩 Component Reusability: Using Tailwind CSS and Shaten components fosters a modular design approach, enabling developers to create a maintainable and scalable codebase.
 📊 Effective Data Management: Structuring queries in separate files promotes cleaner code and easier data retrieval, simplifying the development process and enhancing app functionality.
